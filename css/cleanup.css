@@ -4,9 +4,9 @@
 div#wall #tag-2{
   display: none;
 }
-div#wall #tag-3{
+body#wall #tag-3{
   display: none;
 }
-div#wall .tag-4{
+body#wall .tag-4{
   display: none;
 }
