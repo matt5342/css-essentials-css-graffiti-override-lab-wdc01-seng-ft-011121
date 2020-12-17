@@ -7,6 +7,6 @@
 #wall .tag-3{
   display: none;
 }
-body #wall ~ #parent .tag-4{
+body #wall .tag-4{
   display: none;
 }
